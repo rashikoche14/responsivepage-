@@ -1,0 +1,66 @@
+@media only screen and (max-width:1444px){
+    .nav-list{
+        flex-direction: column;
+    }
+    .navbar{
+        flex-direction: column;
+        transition: all 0.7s ease-out;
+        height:620px;
+    }
+    .rightNav{
+        text-align: center;
+    }
+    #search{
+        width: 100%;
+    }
+    .burger{
+        display: block;
+    }
+    #search{
+        margin:5px -11px;
+    }
+    .h-nav-resp{
+        height:100px;
+    }
+    .v-class-resp{
+        opacity: 0;
+    }
+    .nav-list li a{
+        font-size: 35px;
+    }
+    .btn-sm{
+        font-size: 25px;
+        margin: 15px;
+    }
+    .box-main{
+        flex-direction:column-reverse;
+        max-width:100%;
+    }
+    .text-big{
+        margin-top:40px;
+    }
+    .section{
+        flex-direction: column-reverse;
+    }
+    .text-small{
+        text-align: center;
+    }
+    .text-big{  
+        text-align: center;
+
+    }
+    .buttons{
+        text-align: center;
+
+    }
+    .paras{
+        padding: 0px;
+    }
+    .form-input{
+        margin:10px auto;
+    }
+    .secondHalf img{
+        margin-top:190%;
+    }
+}
+
